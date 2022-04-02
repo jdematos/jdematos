@@ -14,7 +14,7 @@ The [graphic](https://dribbble.com/shots/1215165-Infographic) above by Jelio Dim
 👷 I’m currently working on my github profile so watch your step!
 
 # Stats
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=jdematos&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=jdematos&show_icons=true&include_all_commits=true&theme=calm&hide_border=true" alt="My github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=calm&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 # Links
