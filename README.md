@@ -14,7 +14,7 @@ The [graphic](https://dribbble.com/shots/1215165-Infographic) above by Jelio Dim
 👷 I’m currently working on my github profile so watch your step!
 
 # Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jdematos&theme=aura_dark&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jdematos&theme=flag-india&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
