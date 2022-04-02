@@ -14,9 +14,10 @@ The [graphic](https://dribbble.com/shots/1215165-Infographic) above by Jelio Dim
 👷 I’m currently working on my github profile so watch your step!
 
 # Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jdematos&theme=flag-india&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=jdematos&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 # Links
 [<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jdematos/)  [<img src='https://iconape.com/wp-content/files/zb/110922/svg/twitter-3.svg' alt='twitter' height='40'>](https://twitter.com/jfdematos)  [<img src='https://cdn.worldvectorlogo.com/logos/youtube-icon.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCcfHS7m_B8D2LEhGh_fQKOA)  [<img src='https://user-images.githubusercontent.com/36708431/161360487-191c849c-fbcb-43a9-9269-90c2a674be20.png' alt='Medium' height='40'>](https://medium.com/@jdematos)  
+
+
