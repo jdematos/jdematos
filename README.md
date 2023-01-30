@@ -7,7 +7,7 @@
 </p>
 
 # About me
-My main passion is mathematics with data science being one of my favorite areas to apply mathematics
+My main passion is mathematics with data science and machine learning being some of my favorite areas to apply it.
 
 The [graphic](https://dribbble.com/shots/1215165-Infographic) above by Jelio Dimitrov symbolizes my love for data! While my profile picture symbolizes my interest for quantum computing amd physics. 
 
