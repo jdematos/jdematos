@@ -3,7 +3,7 @@
 <p align="center">
   <img width="460" height="300" src="https://github.com/jdematos/jdematos/blob/main/Infographic.gif?raw=true">
 </p>
-<p align="center"> This Graphic by <a href="https://dribbble.com/shots/1215165-Infographic"> Jelio Dimitrov </a> symbolizes my love for data!</p>
+<p align="center"> This graphic by <a href="https://dribbble.com/shots/1215165-Infographic"> Jelio Dimitrov </a> symbolizes my love for data!</p>
 
 # About me
 - Loves mathematics
